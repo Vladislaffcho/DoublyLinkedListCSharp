@@ -1,0 +1,8 @@
+D:\Synch_cloud\JobApplications\011116_Dnipro\TT_double_linked_list\Double_Linked_list\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe.config
+D:\Synch_cloud\JobApplications\011116_Dnipro\TT_double_linked_list\Double_Linked_list\DoubleLinkedList\bin\Debug\DoubleLinkedList.exe
+D:\Synch_cloud\JobApplications\011116_Dnipro\TT_double_linked_list\Double_Linked_list\DoubleLinkedList\bin\Debug\DoubleLinkedList.pdb
+D:\Synch_cloud\JobApplications\011116_Dnipro\TT_double_linked_list\Double_Linked_list\DoubleLinkedList\obj\Debug\DoubleLinkedList.csprojResolveAssemblyReference.cache
+D:\Synch_cloud\JobApplications\011116_Dnipro\TT_double_linked_list\Double_Linked_list\DoubleLinkedList\obj\Debug\DoubleLinkedList.Properties.Resources.resources
+D:\Synch_cloud\JobApplications\011116_Dnipro\TT_double_linked_list\Double_Linked_list\DoubleLinkedList\obj\Debug\DoubleLinkedList.csproj.GenerateResource.Cache
+D:\Synch_cloud\JobApplications\011116_Dnipro\TT_double_linked_list\Double_Linked_list\DoubleLinkedList\obj\Debug\DoubleLinkedList.exe
+D:\Synch_cloud\JobApplications\011116_Dnipro\TT_double_linked_list\Double_Linked_list\DoubleLinkedList\obj\Debug\DoubleLinkedList.pdb
